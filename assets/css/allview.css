@@ -1,0 +1,15 @@
+div.emd-container{
+position:relative;
+font-size:16px;
+color:#32373c;
+width:100%;
+}
+.emd-dropdown-wrap div:not([class*="photo"]):not([class*="emd-thumb"]):not([class*="featured-img"]){
+padding:0 7px;
+}
+.segment-block.title{font-weight:500}
+:focus {outline:none !important;}
+::-moz-focus-inner {border:0 !important;}
+/* APP CSS START */
+#emp-carousel .carousel-inner .person-img img { height: auto; width: 100%; } #emp-carousel .item article { width: 25% !important; } #emp-carousel article { max-height: 250px; overflow: hidden; } .carousel-control .fa-chevron-left,.carousel-control .fa-chevron-right { display: inline-block; margin-left: -15px; margin-right: -15px; position: absolute; top: 50%; z-index: 5; } .carousel-control.left,.carousel-control.right { background-image: none; } .carousel-inner .active.left { left: -20%; } .carousel-inner .next { left: 20%; } .carousel-inner > .item > article { margin: 0 auto; } .panel-heading.person-tag,.panel-footer.person-tag { padding: 10px; } .person { position: relative; } .person-panel-body { padding: 5px; } .person-thumb { display: block; overflow: hidden; position: relative; max-width: 150px; } .person-thumb .person-link { display: none; visibility: hidden; } .person-thumb .person-link:hover { color: #5CC9DF; } .person-thumb:hover .person-link { background: #fff; color: #777; display: block; font-weight: 300; font-size: 12px; margin: 0; padding: 5px 0; position: absolute; text-align: center; top: 0; visibility: visible; width: 150px; z-index: 2; } .text-center,.panel-person-tag { text-align: center; } .text-danger { color: red; } a.facebook { color: #3b5a9a !important; } a.github { color: #333 !important; } a.google-plus { color: #f45e4b !important; } a.linkedin { color: #0174b3 !important; } a.twitter { color: #2da8e1 !important; } div.emd-container .alert-info { background-color: #d9edf7; border-color: #bce8f1; color: #31708f; } div.emd-container .animate { display: inline-block; vertical-align: middle; } div.emd-container .badge { display: inline-block; font-size: 12px; font-weight: 700; line-height: 1; min-width: 10px; padding: 3px 7px; text-align: center; vertical-align: baseline; white-space: nowrap; } div.emd-container .emd-img { border: 2px solid ; text-align: center; width: 150px; height: 150px; overflow: hidden; border-color:inherit; } div.emd-container .person-img { text-align: center; } div.emd-container a.text-undernone { text-decoration: none; } div.emd-container .panel.person { background-color: #fff; border: 1px solid #ddd; margin: 2px; } div.emd-container .taxlabel a { text-decoration: none; } div.emd-container a.person-name { color: #4abaae; text-decoration: none; } figure.panel-body,figure.widget-img-body,ul.contact-links-list li { margin: 0; } div.emd-container .circle img,div.emd-container .img-circle img { border-radius: 50%; text-align: center; } div.emd-container .mainDetails { margin-bottom: 15px; }
+/* APP CSS END */

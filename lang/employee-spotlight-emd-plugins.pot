@@ -1,0 +1,1262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-04-12T11:41:57-04:00\n"
+"POT-Creation-Date: 2021-04-12T11:41:57-04:00\n"
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/field.php:234
+msgid "+ Add more"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:18
+msgid "Done"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:19
+msgid "Prev"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:20
+msgid "Next"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:21
+msgid "Today"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "January"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "February"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "March"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "April"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:22
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "May"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "June"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "July"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "August"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "September"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "October"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "November"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "December"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jan"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Feb"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Mar"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Apr"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jun"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jul"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Aug"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Sep"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Oct"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Nov"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Dec"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Sunday"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Monday"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Tuesday"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Wednesday"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Thursday"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Friday"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Saturday"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sun"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Mon"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Tue"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Wed"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Thu"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Fri"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sat"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Su"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Mo"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Tu"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "We"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Th"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Fr"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Sa"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/date.php:27
+msgid "Wk"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/datetime.php:33
+msgid "Choose Time"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/datetime.php:34
+msgid "Time"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/datetime.php:35
+msgid "Hour"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/datetime.php:36
+msgid "Minute"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/datetime.php:37
+msgid "Second"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/datetime.php:38
+msgid "Millisecond"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/datetime.php:39
+msgid "Time Zone"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/datetime.php:40
+msgid "Now"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file-advanced.php:64
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file-advanced.php:100
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file-advanced.php:101
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file.php:19
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file.php:20
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file.php:21
+msgid "File Size is greater than allowed limit."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file.php:22
+msgid "Invalid file type."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file.php:72
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file.php:85
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file.php:86
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file.php:96
+msgid "Max number of files: %s"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file.php:99
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file.php:107
+msgid "Max file size: %s"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/file.php:110
+msgid "File extensions allowed: %s"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/image-advanced.php:69
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/image-advanced.php:105
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/image-advanced.php:106
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/image.php:70
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/map.php:53
+msgid "Find Address"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/plupload-image.php:102
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/plupload-image.php:103
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/plupload-image.php:179
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/post.php:66
+msgid "Select a %s"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:118
+msgid "This field is required."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:119
+msgid "Please fix this field."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:120
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:121
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:122
+msgid "Please enter a valid date."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:123
+msgid "Please enter a valid date ( ISO )"
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:124
+msgid "Please enter a valid number."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:125
+msgid "Please enter only digits."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:126
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:127
+msgid "Please enter the same value again."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:128
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:129
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:130
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:131
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:132
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:133
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: ./employee-spotlight/assets/ext/emd-meta-box/inc/meta-box.php:297
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/class-emd-list-table.php:134
+msgid "Attribute"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/class-emd-list-table.php:137
+msgid "Taxonomy"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/class-emd-list-table.php:145
+msgid "Copy"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:19
+msgid "Global"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:56
+msgid "%s is required."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:144
+msgid "Frontend Map Settings"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:145
+msgid "Width"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:145
+msgid "Sets the map width.You can use '%' or 'px'. Default is 100%."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:146
+msgid "Height"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:146
+msgid "Sets the map height. You can use 'px'. Default is 480px."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:147
+msgid "Zoom"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:156
+msgid "Type"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:166
+msgid "Marker"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:167
+msgid "Marker Title"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:167
+msgid "Sets the marker title when hover."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:168
+msgid "Info Window"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:168
+msgid "Sets the content of the info box. You can use html tags."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:169
+msgid "Display Info Window on Page Load"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions-globs.php:170
+msgid "You can drag and drop the marker to specify the exact location."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:45
+msgid "Entities"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:61
+msgid "Taxonomies"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:64
+msgid "Tools"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:67
+msgid "Settings Saved."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:193
+#: ./employee-spotlight/includes/admin/settings-functions.php:1229
+msgid "Base slug"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:196
+msgid "Sets the custom base slug for single and archive %s. After you update,  flush the rewrite rules by going to the Permalink Settings page. This works only if post name based permalink structure is selected."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:198
+msgid "Single template"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:202
+#: ./employee-spotlight/includes/admin/settings-functions.php:1238
+msgid "Right Sidebar"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:202
+#: ./employee-spotlight/includes/admin/settings-functions.php:1238
+msgid "Left Sidebar"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:202
+#: ./employee-spotlight/includes/admin/settings-functions.php:1238
+msgid "Full Width"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:210
+msgid "Sets the template for single %s."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:212
+#: ./employee-spotlight/includes/admin/settings-functions.php:1248
+msgid "Container type"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:216
+#: ./employee-spotlight/includes/admin/settings-functions.php:263
+#: ./employee-spotlight/includes/admin/settings-functions.php:1252
+msgid "Fixed"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:216
+#: ./employee-spotlight/includes/admin/settings-functions.php:263
+#: ./employee-spotlight/includes/admin/settings-functions.php:1252
+msgid "Full"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:224
+msgid "Change this if the sidebars are getting out of your page boundry. Fixed type provides a responsive fixed width container for single %s. Full type provides a full width container, spanning the entire width of the viewport for single %s."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:226
+msgid "Hide previous next links"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:233
+msgid "Hides the previous and next %s links on the frontend for single %s."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:235
+msgid "Hide edit links"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:242
+msgid "Hides edit %s link on the frontend for single %s."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:246
+msgid "Archive template"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:257
+msgid "Sets the template for archive %s."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:259
+msgid "Archive container type"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:271
+msgid "Change this if the sidebars are getting out of your page boundry. Fixed type provides a responsive fixed width container for archive %s. Full type provides a full width container, spanning the entire width of the viewport for archive %s."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:273
+#: ./employee-spotlight/includes/admin/settings-functions.php:1262
+msgid "Hide page navigation"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:280
+msgid "Hides the page navigation links on the frontend for archive %s."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:285
+#: ./employee-spotlight/includes/admin/settings-functions.php:289
+#: ./employee-spotlight/includes/admin/settings-functions.php:292
+#: ./employee-spotlight/includes/admin/settings-functions.php:579
+#: ./employee-spotlight/includes/admin/settings-functions.php:635
+#: ./employee-spotlight/includes/admin/settings-functions.php:1147
+#: ./employee-spotlight/includes/admin/settings-functions.php:1176
+msgid "Enable"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:286
+#: ./employee-spotlight/includes/admin/settings-functions.php:290
+#: ./employee-spotlight/includes/admin/settings-functions.php:580
+#: ./employee-spotlight/includes/admin/settings-functions.php:636
+#: ./employee-spotlight/includes/admin/settings-functions.php:1148
+#: ./employee-spotlight/includes/admin/settings-functions.php:1177
+msgid "Disable"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:287
+#: ./employee-spotlight/includes/admin/settings-functions.php:293
+#: ./employee-spotlight/includes/admin/settings-functions.php:581
+#: ./employee-spotlight/includes/admin/settings-functions.php:637
+#: ./employee-spotlight/includes/admin/settings-functions.php:1149
+#: ./employee-spotlight/includes/admin/settings-functions.php:1178
+msgid "Show only in Admin"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:305
+#: ./employee-spotlight/includes/admin/settings-functions.php:306
+#: ./employee-spotlight/includes/admin/settings-functions.php:1131
+#: ./employee-spotlight/includes/admin/settings-functions.php:1132
+msgid "Show"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:305
+#: ./employee-spotlight/includes/admin/settings-functions.php:306
+#: ./employee-spotlight/includes/admin/settings-functions.php:1131
+#: ./employee-spotlight/includes/admin/settings-functions.php:1132
+msgid "Do not show"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:306
+#: ./employee-spotlight/includes/admin/settings-functions.php:1132
+msgid "Allow Edit"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:413
+msgid "Featured Image"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:690
+msgid "Attributes"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:692
+msgid "Enable: Display this attribute on everywhere</br>Disable: Remove this attribute from everywhere</br>Show only in Admin: This attribute is still enabled on admin area. If you want to hide this attribute on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:701
+#: ./employee-spotlight/includes/admin/settings-functions.php:1166
+msgid "Visibility"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:703
+#: ./employee-spotlight/includes/admin/settings-functions.php:1168
+msgid "Visitor"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:725
+msgid "Remove access restrictions on frontend"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:732
+msgid "Shows all %s to logged in and non-logged in users regardless of content access permissions assigned to their user role."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:739
+msgid "Use the options below to customize file uploads."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:742
+#: ./employee-spotlight/includes/admin/settings-functions.php:925
+msgid "Maximum files"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:752
+#: ./employee-spotlight/includes/admin/settings-functions.php:932
+msgid "Sets the maximum number of allowable file uploads."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:755
+#: ./employee-spotlight/includes/admin/settings-functions.php:934
+msgid "Maximum file size"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:770
+#: ./employee-spotlight/includes/admin/settings-functions.php:946
+msgid "Sets the maximum uploadable file size in kilobytes. Your server allows up to %s KB. Leave it blank to use server limit."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:772
+#: ./employee-spotlight/includes/admin/settings-functions.php:948
+msgid "Allowed file extensions"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:782
+#: ./employee-spotlight/includes/admin/settings-functions.php:955
+msgid "Sets the file extensions allowed to upload. Seperate each extension by a comma. For example: jpg,png,pdf"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:789
+#: ./employee-spotlight/includes/admin/settings-functions.php:814
+msgid "Use the option below to select a default."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:791
+msgid "Default Country"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:816
+msgid "Default State"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:846
+msgid "Use the options below to customize %s %s."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:848
+msgid "Set placeholder"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:851
+msgid "Join the discussion..."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:858
+msgid "Set the depth of threaded (nested) comments"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:869
+msgid "All"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:874
+msgid "None"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:884
+msgid "Posts per page"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:896
+msgid "Show labels for user roles"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:902
+msgid "Displays the default plugin user roles (%s) next to the user name in a response box when a user belonging to that role leaves a reply."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:905
+msgid "Enable file uploads"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:917
+msgid "Enable file uploads for non-logged in users"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1008
+msgid "Frontend map settings"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1031
+msgid "Display info window on page load"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1143
+msgid "Availability"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1159
+#: ./employee-spotlight/includes/admin/settings-functions.php:1224
+msgid "Enable: Display this taxonomy on everywhere</br>Disable: Remove this taxonomy from everywhere</br>Show only in Admin: This taxonomy is still enabled on admin area. If you want to hide this taxonomy on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1231
+msgid "Sets the custom base slug for this taxonomy. After you update,  flush the rewrite rules by going to the Permalink Settings page."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1234
+msgid "Template"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1246
+msgid "Sets the template for the posts which belong to this taxonomy."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1260
+msgid "Change this if the sidebars are getting out of your page boundry. Fixed type provides a responsive fixed width container for this taxonomy. Full type provides a full width container, spanning the entire width of the viewport for this taxonomy."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1269
+msgid "Hides the page navigation links on the frontend for archive posts."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1306
+msgid "All missing pages were installed successfully."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1317
+#: ./employee-spotlight/includes/admin/settings-functions.php:1319
+msgid "Install pages"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1320
+msgid "This tool will install all the missing %s pages. Pages already defined and set up will not be replaced."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1322
+msgid "Disable EMD Templating System"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1329
+msgid "Check this if you experience theme related issues. This will disable EMD Templating System and use your themes templates instead. It will also disable all the templating related options in Entities and Taxonomies tabs. If you still experience theme related issues after checking this option, read the plugin documentation's resolving theme related issues section."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1331
+msgid "Delete all settings"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1338
+msgid "This tool will delete all settings/options data including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1340
+msgid "Delete all data"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1353
+msgid "This tool will delete all %s data and related taxonomies including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen. As a best practice we recommend you to backup your database before selecting this option."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1355
+msgid "Custom CSS"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1359
+msgid "Custom CSS allows you to add your own styles or override the default CSS of this plugin. The CSS code written here is only applied to this plugin's frontend pages."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1361
+msgid "Custom JS"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/settings-functions.php:1365
+msgid "Custom JS allows you to add your own JavaScript. The JavaScript code written here is only applied to this plugin's frontend pages."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/shortcode-list-functions.php:20
+msgid "Visual ShortCode Builder"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/shortcode-list-functions.php:25
+#: ./employee-spotlight/includes/admin/shortcode-list-functions.php:34
+msgid "The following shortcodes are provided by default. To use the shortcode, click copy button and paste it in a page."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/shortcode-list-functions.php:26
+msgid "To create advanced shortcodes click Create New button."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/shortcode-list-functions.php:29
+msgid "ShortCodes"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/shortcode-list-functions.php:35
+msgid "To learn more on how to create new shortcodes with filters go to the %s documentation.%s"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/shortcode-list-functions.php:62
+msgid "Error: Please try again."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/shortcode-list-functions.php:88
+msgid "Form"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/shortcode-list-functions.php:93
+#: ./employee-spotlight/includes/admin/shortcode-list-functions.php:98
+msgid "View"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/store-functions.php:24
+msgid "Browse All"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/store-functions.php:26
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/store-functions.php:64
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/store-functions.php:64
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/store-functions.php:89
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/wpas-btn-functions.php:23
+msgid "Please Select"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/wpas-btn-functions.php:35
+msgid "Standards"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/wpas-btn-functions.php:52
+msgid "AutoCompletes"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/wpas-btn-functions.php:60
+msgid "Integrations"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/wpas-btn-functions.php:71
+msgid "Charts"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/wpas-btn-functions.php:87
+msgid "Datagrids"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/wpas-btn-functions.php:95
+msgid "Calendars"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/wpas-btn-functions.php:177
+msgid "Create Shortcodes"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/wpas-btn-functions.php:178
+msgid "Select a component below to insert into any Post or Page."
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/wpas-btn-functions.php:183
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ./employee-spotlight/includes/admin/wpas-btn-functions.php:205
+#: ./employee-spotlight/includes/admin/wpas-btn-functions.php:206
+msgid "Create shortcodes using Visual Shortcode Builder"
+msgstr ""
+
+#: ./employee-spotlight/includes/class-emd-widget.php:132
+msgid "Title"
+msgstr ""
+
+#: ./employee-spotlight/includes/class-emd-widget.php:137
+msgid "%s to show"
+msgstr ""
+
+#: ./employee-spotlight/includes/class-emd-widget.php:138
+msgid "Max: 10"
+msgstr ""
+
+#: ./employee-spotlight/includes/class-emd-widget.php:209
+#: ./employee-spotlight/includes/class-emd-widget.php:222
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ./employee-spotlight/includes/common-functions.php:385
+msgid "Author:"
+msgstr ""
+
+#: ./employee-spotlight/includes/common-functions.php:386
+#: ./employee-spotlight/includes/common-functions.php:544
+msgid "%s \a\t %s"
+msgstr ""
+
+#: ./employee-spotlight/includes/common-functions.php:551
+#: ./employee-spotlight/includes/common-functions.php:557
+#: ./employee-spotlight/includes/common-functions.php:560
+msgid "options"
+msgstr ""
+
+#: ./employee-spotlight/includes/common-functions.php:1075
+#: ./employee-spotlight/includes/common-functions.php:1089
+msgid "Please refresh the page and try again."
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:38
+msgid "<strong>After purchasing the premium edition, please remove the free plugin</strong>. Don't worry, all your records will be preserved."
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:47
+msgid "Check out <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">our documentation</a> for step-by-step instructions."
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:253
+msgid "Import, Export and Update %s From/To CSV"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:254
+msgid "Do you have hundreds of %s in a spreadsheet and think about how to get them in WordPress? No problem!"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:256
+msgid "Sometimes, adding or updating %s one by one is NOT the smartest thing to do. Bulk import, update and take snapshots at will - more time to play!"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:260
+msgid "Get your %s in %s fast"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:261
+msgid "Bulk update %s with a single click"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:262
+msgid "Take periodic backups to protect yourself against data loss"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:263
+msgid "Reset and start from scratch anytime"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:266
+msgid "Create custom fields with ease"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:267
+msgid "Migrate %s from one site to another with ease"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:277
+msgid "Get your YouTube videos and update stats with a few clicks"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:278
+msgid "You can get your YouTube videos in WordPress and update their stats on demand or schedule. Bonus: Video updates are done automatically. "
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:280
+msgid "You can add multiple playlists and/or usernames and decide how often you want to get new videos or make updates to existing ones. Easy!"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:284
+msgid "Import from unlimited playlists"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:285
+msgid "Import from unlimited usernames"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:286
+msgid "On-demand video imports and updates"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:287
+msgid "On-schedule imports and updates"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:290
+msgid "Set your batch size for each run"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:291
+msgid "On-demand video stat updates"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:302
+msgid "Gather, display and search information with ease"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:303
+msgid "EMD Custom Field Builder is an easy to use yet powerful tool to customize your plugin by adding custom fields and taxonomies. "
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:305
+msgid "Learn more"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:309
+msgid "Create unlimited number of custom fields"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:310
+msgid "Provide additional level of information"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:311
+msgid "Include custom fields in submit forms to gather information *"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:312
+msgid "Include custom fields in search forms to allow finding information *"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:313
+msgid "Create 55+ different types of custom fields"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:316
+msgid "Create 4 types of custom taxonomies to group and categorize information"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:317
+msgid "Make custom fields as \"Required\" not to allow empty values"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:318
+msgid "Set a default value to offer initial option"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:319
+msgid "Enable or disable custom fields with a single click"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:320
+msgid "Limit access to information by displaying custom fields to selected user roles only"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:372
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:373
+msgid "Update to a Premium Edition to unlock Filters & Columns"
+msgstr ""
+
+#: ./employee-spotlight/includes/emd-lite/emd-lite.php:373
+msgid "Filters &amp; Columns"
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:154
+msgid "%s updated. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:155
+msgid "Custom field updated."
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:156
+msgid "Custom field deleted."
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:157
+msgid "%s updated."
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:159
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:160
+msgid "%s published. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:161
+msgid "%s saved."
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:162
+msgid "%s submitted. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:163
+msgid "%s scheduled for: <strong>%s</strong>. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:163
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:164
+msgid "%s draft updated. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:183
+msgid "CSV Import/Export"
+msgstr ""
+
+#: ./employee-spotlight/includes/entities/class-emd-entity.php:608
+msgid "Duplicate"
+msgstr ""
+
+#: ./employee-spotlight/layouts/emd-archive.php:43
+msgid "No archive records have been found."
+msgstr ""
+
+#: ./employee-spotlight/layouts/emd-archive.php:71
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: ./employee-spotlight/layouts/emd-archive.php:73
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ./employee-spotlight/layouts/emd-single.php:48
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: ./employee-spotlight/layouts/emd-single.php:49
+msgctxt "Next post link"
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ./employee-spotlight/layouts/emd-taxonomy.php:45
+msgid "No records have been found matching the term."
+msgstr ""

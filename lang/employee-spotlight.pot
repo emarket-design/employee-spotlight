@@ -1,0 +1,770 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-04-12T11:42:05-04:00\n"
+"POT-Creation-Date: 2021-04-12T11:42:05-04:00\n"
+
+#: employee-spotlight/employee-spotlight.php:80
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: employee-spotlight/employee-spotlight.php:232
+msgid "Spotlight"
+msgstr ""
+
+#: employee-spotlight/employee-spotlight.php:236
+msgid "Getting Started"
+msgstr ""
+
+#: employee-spotlight/employee-spotlight.php:237
+msgid "Glossary"
+msgstr ""
+
+#: employee-spotlight/employee-spotlight.php:241
+msgid "Settings"
+msgstr ""
+
+#: employee-spotlight/employee-spotlight.php:245
+msgid "Shortcodes"
+msgstr ""
+
+#: employee-spotlight/employee-spotlight.php:249
+#: employee-spotlight/employee-spotlight.php:311
+msgid "Custom Fields"
+msgstr ""
+
+#: employee-spotlight/employee-spotlight.php:253
+msgid "Plugins"
+msgstr ""
+
+#: employee-spotlight/employee-spotlight.php:257
+msgid "Support"
+msgstr ""
+
+#: employee-spotlight/employee-spotlight.php:276
+msgid "Licenses"
+msgstr ""
+
+#: employee-spotlight/includes/admin/getting-started.php:177
+msgid "Welcome to Employee Spotlight Community %s"
+msgstr ""
+
+#: employee-spotlight/includes/admin/getting-started.php:181
+msgid "Let's get started with Employee Spotlight Community"
+msgstr ""
+
+#: employee-spotlight/includes/admin/getting-started.php:183
+msgid "Upgrade Now"
+msgstr ""
+
+#: employee-spotlight/includes/admin/getting-started.php:184
+msgid "Visit Pro Demo Site"
+msgstr ""
+
+#: employee-spotlight/includes/admin/getting-started.php:187
+msgid "Release Notes"
+msgstr ""
+
+#: employee-spotlight/includes/admin/getting-started.php:188
+msgid "Resources"
+msgstr ""
+
+#: employee-spotlight/includes/admin/getting-started.php:189
+msgid "Features"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:21
+msgid "Employee Spotlight displays photo, bio, and contact information of your employees, founders, team or just yourself. Each employee has its own page."
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:22
+msgid "The below are the definitions of entities, attributes, and terms included in Employee Spotlight."
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:26
+msgid "Employees"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:29
+msgid "Employees are human resources that work for your organization. Employees can be identified as staff, team members, founders, or contractors."
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:29
+msgid "Attributes"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:31
+msgid "Full Name"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:32
+msgid " Full Name is a required field. Being a unique identifier, it uniquely distinguishes each instance of Employee entity. Full Name is filterable in the admin area. Full Name does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:35
+msgid "Bio"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:36
+msgid " Bio does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:39
+msgid "Excerpt"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:40
+msgid " Excerpt does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:43
+msgid "Featured"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:44
+msgid "Sets employee as featured which can be used to select employees in available views using Visual Shortcode Builder and Featured employee widget. Featured does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:47
+msgid "Photo"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:48
+msgid "Photo of the employee. 250x250 is the preferred size. Photo does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:51
+msgid "Job Title"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:52
+msgid " Job Title does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:55
+msgid "Primary Address"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:56
+msgid " Primary Address does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:59
+msgid "Phone"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:60
+msgid " Phone is filterable in the admin area. Phone does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:63
+msgid "Mobile"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:64
+msgid " Mobile is filterable in the admin area. Mobile does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:67
+msgid "Email"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:68
+msgid " Email does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:71
+msgid "Facebook"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:72
+msgid " Facebook does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:75
+msgid "Google+"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:76
+msgid " Google+ does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:79
+msgid "Twitter"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:80
+msgid " Twitter does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:83
+msgid "Linkedin"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:84
+msgid " Linkedin does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:87
+msgid "Github"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:88
+msgid " Github is filterable in the admin area. Github does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:91
+msgid "Birthday"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:92
+msgid " Birthday is filterable in the admin area. Birthday does not have a default value. "
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:93
+msgid "Taxonomies"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:95
+msgid "Group"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:97
+msgid " Group accepts multiple values like tags"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:97
+msgid "Group does not have a default value"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:97
+msgid "There are no preset values for <b>Group.</b>"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:101
+msgid "Location"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:103
+msgid " Location accepts multiple values like tags"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:103
+msgid "Location does not have a default value"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:103
+msgid "There are no preset values for <b>Location.</b>"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:107
+msgid "Employee Tag"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:109
+msgid " Employee Tag accepts multiple values like tags"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:109
+msgid "Employee Tag does not have a default value"
+msgstr ""
+
+#: employee-spotlight/includes/admin/glossary.php:109
+msgid "There are no preset values for <b>Employee Tag.</b>"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:295
+msgid "Employee Circle Grid"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:300
+msgid "Employee Circle Panel Grid"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:313
+msgid "Sets employee as featured which can be used to select employees in available views using Visual Shortcode Builder and Featured employee widget."
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:327
+msgid "Photo of the employee. 250x250 is the preferred size."
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:452
+msgid "Image Border Color"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:484
+msgid "Groups"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:497
+msgid "Locations"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:510
+msgid "Employee Tags"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:571
+msgid "New To Employee Spotlight? Review the documentation!"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:571
+#: employee-spotlight/includes/class-install-deactivate.php:583
+msgid "&#187;"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:571
+#: employee-spotlight/includes/class-install-deactivate.php:583
+msgid "Dismiss"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:583
+msgid "Showcase your team's talent with more features!"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:589
+msgid "Welcome to Employee Spotlight"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:590
+msgid "Setup Employee Spotlight Pages"
+msgstr ""
+
+#: employee-spotlight/includes/class-install-deactivate.php:590
+msgid "Skip setup"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee-widgets.php:39
+msgid "Recent Members"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee-widgets.php:39
+#: employee-spotlight/includes/entities/class-emd-employee-widgets.php:101
+msgid "The most recent employees"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee-widgets.php:101
+msgid "Featured Employees"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:169
+msgid "Featured Image"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:351
+#: employee-spotlight/includes/entities/class-emd-employee.php:586
+msgid "Employee"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:352
+msgid "Add New"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:353
+msgid "Add New Employee"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:354
+msgid "Edit Employee"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:355
+msgid "New Employee"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:356
+msgid "All Employees"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:357
+msgid "View Employee"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:358
+msgid "Search Employees"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:359
+msgid "No Employees Found"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:360
+msgid "No Employees Found In Trash"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:425
+msgid "Search Groups"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:426
+msgid "Popular Groups"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:427
+#: employee-spotlight/includes/entities/class-emd-employee.php:478
+#: employee-spotlight/includes/entities/class-emd-employee.php:529
+msgid "All"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:430
+msgid "Edit Group"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:431
+msgid "Update Group"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:432
+msgid "Add New Group"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:433
+msgid "Add New Group Name"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:434
+msgid "Seperate Groups with commas"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:435
+msgid "Add or Remove Groups"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:436
+msgid "Choose from the most used Groups"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:476
+msgid "Search Employee Tags"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:477
+msgid "Popular Employee Tags"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:481
+msgid "Edit Employee Tag"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:482
+msgid "Update Employee Tag"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:483
+msgid "Add New Employee Tag"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:484
+msgid "Add New Employee Tag Name"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:485
+msgid "Seperate Employee Tags with commas"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:486
+msgid "Add or Remove Employee Tags"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:487
+msgid "Choose from the most used Employee Tags"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:527
+msgid "Search Locations"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:528
+msgid "Popular Locations"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:532
+msgid "Edit Location"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:533
+msgid "Update Location"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:534
+msgid "Add New Location"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:535
+msgid "Add New Location Name"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:536
+msgid "Seperate Locations with commas"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:537
+msgid "Add or Remove Locations"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:538
+msgid "Choose from the most used Locations"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:591
+msgid "Employee Info"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:702
+msgid "CSV Import/Export"
+msgstr ""
+
+#: employee-spotlight/includes/entities/class-emd-employee.php:724
+msgid "Enter Full Name here"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:62
+msgid "Please help us improve Employee Spotlight"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:64
+msgid "Allow eMDPlugins to collect your usage of Employee Spotlight. This will help you to get a better, more compatible plugin in the future."
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:65
+msgid "If you skip this, that's okay! Employee Spotlight will still work just fine."
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:68
+msgid "Do not allow"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:69
+msgid "Allow"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:76
+msgid "Please confirm your email address below to start receiving emails from us."
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:85
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:86
+msgid "Your Profile Overview"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:86
+msgid "Name and email address"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:87
+msgid "Your Site Overview"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:87
+msgid "Site URL, WP version and PHP info"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:88
+msgid "Newsletter"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:88
+msgid "Updates, announcements, marketing, no spam"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:137
+msgid "Hi, I noticed you just crossed the %d %s milestone - that's awesome!"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:139
+msgid "Hi, I just noticed you have been using Employee Spotlight for about a week now - that's awesome!"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:141
+msgid "Give <b>Employee Spotlight</b> a <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> 5 star review <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> to help fellow WordPress users like YOU find it faster! <u>Your 5 star review</u> brings YOU a better FREE product and faster, motivated support when YOU need help."
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:142
+msgid "Would you like to upgrade now to get more out of your %s?"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:148
+msgid "Yes, I want a better FREE product and faster support"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:150
+msgid "I already did - Thank you"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:151
+msgid "No, I don't want a better FREE product and faster support"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:152
+msgid "I want to upgrade"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:154
+msgid "Maybe later"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:173
+msgid "Docs"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:174
+msgid "Pro Version"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:211
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:212
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:213
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:214
+msgid "Cancel"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:215
+msgid "Please share the reason so we can improve"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:216
+msgid "Would you like to open a support ticket?"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:217
+msgid "Please enter your email address."
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:220
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:221
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:222
+msgid "The plugin update did not work as expected"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:223
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:224
+#: employee-spotlight/includes/plugin-feedback-functions.php:231
+msgid "I found a better plugin"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:226
+msgid "I couldn't understand how to make it work"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:227
+msgid "The plugin is not working"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:228
+msgid "It's not what I was looking for"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:229
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:230
+msgid "The plugin is great, but I need a specific feature that is not currently supported"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:240
+msgid "It's a temporary deactivation. I'm just debugging an issue"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:241
+msgid "Other"
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:242
+msgid "No private information is sent during your submission. Thank you very much for your help improving our plugin."
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:262
+msgid "Please share the plugin name."
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:266
+msgid "Please share the feature that you were looking for so that we can develop it in the future releases."
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:270
+msgid "We are sorry to hear that. Please share your previous version number before update, new updated version number and detailed description of what happened."
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:274
+msgid "We are sorry to hear that. Please share the detailed description of what happened."
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:278
+msgid "Please share what didn't work so we can fix it in the future releases."
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:282
+msgid "Please share what you were looking for."
+msgstr ""
+
+#: employee-spotlight/includes/plugin-feedback-functions.php:286
+msgid "Please share what you expected."
+msgstr ""
+
+#: employee-spotlight/includes/scripts.php:74
+msgid "Please enter a unique value."
+msgstr ""
+
+#: employee-spotlight/includes/scripts.php:75
+msgid "required"
+msgstr ""
+
+#: employee-spotlight/includes/scripts.php:92
+msgid "Taxonomy"
+msgstr ""
+
+#: employee-spotlight/includes/scripts.php:105
+#: employee-spotlight/includes/scripts.php:110
+msgid "Relationship"
+msgstr ""
+
+#: employee-spotlight/includes/scripts.php:315
+#: employee-spotlight/includes/scripts.php:317
+#: employee-spotlight/includes/scripts.php:324
+#: employee-spotlight/includes/scripts.php:326
+msgid "Previous"
+msgstr ""
+
+#: employee-spotlight/includes/scripts.php:315
+#: employee-spotlight/includes/scripts.php:319
+#: employee-spotlight/includes/scripts.php:324
+#: employee-spotlight/includes/scripts.php:328
+msgid "Next"
+msgstr ""
+
+#: employee-spotlight/layouts/archive-emd-employee.php:85
+msgid "Tags"
+msgstr ""
+
+#: employee-spotlight/layouts/shc-employee-circle-panel-grid-content.php:56
+msgid "Go to the personal page of"
+msgstr ""
