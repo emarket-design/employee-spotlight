@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://emdplugins.com/plugins/employee-spotlight-wordpress-plugin/">
-    <img src="github/spotlight-logo-260x300.png" alt="Logo">
+    <img src="github/employee-spotlight-logo-250x25.png" alt="Logo">
   </a>
 
   <h3 align="center">Employee Spotlight</h3>
@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Employee Spotlight Screen Shot](github/)
+![Employee Spotlight Screen Shot](github/espotlight_pro_540.png)
 
 
 <ul>
